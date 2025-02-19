@@ -1,7 +1,7 @@
 # Time Series Project - [Acea Smart Water Analytics Challenge in Kaggle](https://www.kaggle.com/competitions/acea-water-prediction/data)
 
 
-The goal of this project is to predict the most efficient water availability, in terms of level and water flow for each day of the year, in order to help preserve the health of these waterbodies it is important to
+The goal of this project is to predict for Acea Group (one of the leading Italian multiutility operators in the water services sector supplying 9 million inhabitants), the most efficient water availability, in terms of level and water flow for each day of the year, in order to help preserve the health of the waterbodies in the areas o Lazio, Tuscany, Umbria, Molise, Campania (Italy).
 
 ## Data structure
 
